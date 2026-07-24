@@ -202,3 +202,35 @@ Always open to learning, building, and collaborating on projects.
 </table>
 
 <br/><hr/>
+
+<div align="center">
+
+### [ GITHUB STATS ]
+
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Async-NickL&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
+<br/><hr/>
+
+<div align="center">
+
+### [ CONTRIBUTION GRAPH ]
+
+</div>
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Async-NickL/Async-NickL/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Async-NickL/Async-NickL/main/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Async-NickL/Async-NickL/main/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/><hr/>
