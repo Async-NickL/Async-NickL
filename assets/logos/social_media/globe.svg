@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Rounded square background matching skillicons style -->
+  <rect width="256" height="256" rx="40" ry="40" fill="#0077B6"/>
+  <!-- Globe icon in white -->
+  <g transform="translate(128,128)">
+    <!-- Outer circle -->
+    <circle cx="0" cy="0" r="88" fill="none" stroke="white" stroke-width="10"/>
+    <!-- Equator -->
+    <line x1="-88" y1="0" x2="88" y2="0" stroke="white" stroke-width="8"/>
+    <!-- Prime meridian -->
+    <line x1="0" y1="-88" x2="0" y2="88" stroke="white" stroke-width="8"/>
+    <!-- Top latitude line -->
+    <ellipse cx="0" cy="-34" rx="79" ry="20" fill="none" stroke="white" stroke-width="7"/>
+    <!-- Bottom latitude line -->
+    <ellipse cx="0" cy="34" rx="79" ry="20" fill="none" stroke="white" stroke-width="7"/>
+    <!-- Central meridian oval (left) -->
+    <ellipse cx="0" cy="0" rx="44" ry="88" fill="none" stroke="white" stroke-width="8"/>
+  </g>
+</svg>
