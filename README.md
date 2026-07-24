@@ -71,7 +71,7 @@ Always open to learning, building, and collaborating on projects.
 
 **Languages**
 
-<table width="100%" border="1">
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center" width="20%" height="100">
       <img src="assets/logos/languages/java.svg" width="48" height="48" alt="Java" />
@@ -100,7 +100,7 @@ Always open to learning, building, and collaborating on projects.
 
 **Backend**
 
-<table width="100%" border="1">
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center" width="25%" height="100">
       <img src="assets/logos/backend/nodejs.svg" width="48" height="48" alt="Node.js" />
@@ -125,7 +125,7 @@ Always open to learning, building, and collaborating on projects.
 
 **Databases**
 
-<table width="100%" border="1">
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center" width="50%" height="100">
       <img src="assets/logos/databases/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
@@ -142,7 +142,7 @@ Always open to learning, building, and collaborating on projects.
 
 **Frontend**
 
-<table width="100%" border="1">
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center" width="33%" height="100">
       <img src="assets/logos/frontend/react.svg" width="48" height="48" alt="React" />
@@ -163,7 +163,7 @@ Always open to learning, building, and collaborating on projects.
 
 **DevOps & Infrastructure**
 
-<table width="100%" border="1">
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center" width="33%" height="100">
       <img src="assets/logos/devops/docker.svg" width="48" height="48" alt="Docker" />
@@ -184,7 +184,7 @@ Always open to learning, building, and collaborating on projects.
 
 **Tools**
 
-<table width="100%" border="1">
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center" width="33%" height="100">
       <img src="assets/logos/tools/git.svg" width="48" height="48" alt="Git" />
