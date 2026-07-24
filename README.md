@@ -12,25 +12,25 @@
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <a href="https://www.linkedin.com/in/nikhil-kole/">
         <img src="assets/logos/social_media/linkedin.png" width="48" height="48" alt="LinkedIn" />
       </a>
       <br/><b>LinkedIn</b>
     </td>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <a href="https://x.com/AsyncNickL">
         <img src="assets/logos/social_media/x.png" width="48" height="48" alt="X" />
       </a>
-      <br/><b>X (Twitter)</b>
+      <br/><b>Twitter</b>
     </td>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <a href="mailto:nikhilkole.html@gmail.com">
         <img src="assets/logos/social_media/gmail-dark.svg" width="48" height="48" alt="Gmail" />
       </a>
       <br/><b>Gmail</b>
     </td>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <a href="https://nikhilkole.vercel.app/">
         <img src="assets/logos/social_media/globe.svg" width="48" height="48" alt="Portfolio" />
       </a>
@@ -73,23 +73,23 @@ Always open to learning, building, and collaborating on projects.
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="20%" height="100">
+    <td align="center" width="154" height="100">
       <img src="assets/logos/languages/java.svg" width="48" height="48" alt="Java" />
       <br/><b>Java</b>
     </td>
-    <td align="center" width="20%" height="100">
+    <td align="center" width="154" height="100">
       <img src="assets/logos/languages/javascript.svg" width="48" height="48" alt="JavaScript" />
       <br/><b>JavaScript</b>
     </td>
-    <td align="center" width="20%" height="100">
+    <td align="center" width="154" height="100">
       <img src="assets/logos/languages/typescript.svg" width="48" height="48" alt="TypeScript" />
       <br/><b>TypeScript</b>
     </td>
-    <td align="center" width="20%" height="100">
+    <td align="center" width="154" height="100">
       <img src="assets/logos/languages/go.svg" width="48" height="48" alt="Go" />
       <br/><b>Go</b>
     </td>
-    <td align="center" width="20%" height="100">
+    <td align="center" width="154" height="100">
       <img src="assets/logos/languages/python.svg" width="48" height="48" alt="Python" />
       <br/><b>Python</b>
     </td>
@@ -102,19 +102,19 @@ Always open to learning, building, and collaborating on projects.
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <img src="assets/logos/backend/nodejs.svg" width="48" height="48" alt="Node.js" />
       <br/><b>Node.js</b>
     </td>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <img src="assets/logos/backend/express.svg" width="48" height="48" alt="Express" />
       <br/><b>Express</b>
     </td>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <img src="assets/logos/backend/flask.svg" width="48" height="48" alt="Flask" />
       <br/><b>Flask</b>
     </td>
-    <td align="center" width="25%" height="100">
+    <td align="center" width="192" height="100">
       <img src="assets/logos/backend/fastapi.svg" width="48" height="48" alt="FastAPI" />
       <br/><b>FastAPI</b>
     </td>
@@ -127,11 +127,11 @@ Always open to learning, building, and collaborating on projects.
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="50%" height="100">
+    <td align="center" width="384" height="100">
       <img src="assets/logos/databases/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
       <br/><b>PostgreSQL</b>
     </td>
-    <td align="center" width="50%" height="100">
+    <td align="center" width="384" height="100">
       <img src="assets/logos/databases/mongodb.svg" width="48" height="48" alt="MongoDB" />
       <br/><b>MongoDB</b>
     </td>
@@ -144,15 +144,15 @@ Always open to learning, building, and collaborating on projects.
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/frontend/react.svg" width="48" height="48" alt="React" />
       <br/><b>React</b>
     </td>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/frontend/expo.svg" width="48" height="48" alt="Expo" />
       <br/><b>Expo</b>
     </td>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/frontend/electron.svg" width="48" height="48" alt="Electron" />
       <br/><b>Electron</b>
     </td>
@@ -165,15 +165,15 @@ Always open to learning, building, and collaborating on projects.
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/devops/docker.svg" width="48" height="48" alt="Docker" />
       <br/><b>Docker</b>
     </td>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/devops/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       <br/><b>Kubernetes</b>
     </td>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/devops/aws.svg" width="48" height="48" alt="AWS" />
       <br/><b>AWS</b>
     </td>
@@ -186,15 +186,15 @@ Always open to learning, building, and collaborating on projects.
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/tools/git.svg" width="48" height="48" alt="Git" />
       <br/><b>Git</b>
     </td>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/tools/github.svg" width="48" height="48" alt="GitHub" />
       <br/><b>GitHub</b>
     </td>
-    <td align="center" width="33%" height="100">
+    <td align="center" width="256" height="100">
       <img src="assets/logos/tools/postman.svg" width="48" height="48" alt="Postman" />
       <br/><b>Postman</b>
     </td>
